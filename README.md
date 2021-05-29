@@ -1,2 +1,3 @@
 # ITAutomationWthPython
 Google IT Automation Wth Python Courseera
+I am editing the README file. Adding some more details about the project description.
